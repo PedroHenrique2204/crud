@@ -1,0 +1,14 @@
+{
+  "hosts": [
+    {
+      "id": "6883"
+    },
+    {
+      "id": "1112",
+      "name": "mac",
+      "ip": "33.12.324.12",
+      "description": "opa",
+      "status": true
+    }
+  ]
+}
